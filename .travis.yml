@@ -6,3 +6,5 @@ arch:
 go:
   - 1.15
   - 1.14
+script:
+  - make test
